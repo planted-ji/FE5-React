@@ -1,3 +1,3 @@
-function createElement() {}
+function createElement() {a}
 
 function render() {}
